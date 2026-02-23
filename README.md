@@ -30,3 +30,7 @@ In this ePortfolio, the course outcomes that have been demonstrated as follows:
 It was a fun ride partaking in the SNHU Computer Science program studying abroad and gaining not only new skills that will set me up for my career to exceed at, but also I've gained some relative insight upon how Computer Scientists operate. Learning different programming languages, databases, and how SCRUM operates has given me the confidence to step outside into the real world and to put my Computer Science skills into good use.
 
 This ePortfolio will serve as a demonstration of my capabilities and my readiness to contribute to an organization to the best of my abilities. By demonstrating my artifact enhancement under the three categories, it will unlock the window of opportunites I look forward to explore.
+
+# Code Review
+Here is the link that leads to my code review on YouTube: https://youtu.be/YSXS4HXdbRY
+It would not allow me to upload here due to the video's data size.
