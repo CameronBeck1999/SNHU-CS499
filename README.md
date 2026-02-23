@@ -33,4 +33,3 @@ This ePortfolio will serve as a demonstration of my capabilities and my readines
 
 # Code Review
 Here is the link that leads to my code review on YouTube: https://youtu.be/YSXS4HXdbRY
-It would not allow me to upload here due to the video's data size.
