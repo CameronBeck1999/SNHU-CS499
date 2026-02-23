@@ -1,1 +1,1 @@
-This file that contains my original code from my CS320 ACT project that I used for all three of my enhancements.
+This is the artifact I used for all three enhancements. This is the original code prior to the enhancements made.
